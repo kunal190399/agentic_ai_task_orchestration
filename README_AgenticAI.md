@@ -188,4 +188,4 @@ Teesside University (2026). Agentic AI for Autonomous Task Management — PhD St
 MSc Advanced Computer Science, University of Liverpool
 [LinkedIn](https://linkedin.com/in/kunal-kamble19) | [Email](mailto:kamblekunal165@gmail.com)
 
-*Built in preparation for the PhD studentship in Agentic AI for Autonomous Task Management at Teesside University, supervised by Prof. Annalisa Occhipinti, in partnership with MCD Systems.*
+*Built in preparation for the PhD studentship in Agentic AI for Autonomous Task Management at Teesside University.*
